@@ -3,6 +3,7 @@
 website/
 train_model.py
 model_*.pkl
-evaluation_matrics.json
+evaluation_metrics.json
 EDA.ipynb
 Loan_default.csv
+model.pkl
