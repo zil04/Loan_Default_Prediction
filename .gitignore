@@ -1,4 +1,8 @@
 .ipynb_checkpoints/
 .__pycache__/
-.website/
-styles.css
+.website/styles.css
+train_model.py
+model_*.pkl
+evaluation_matrics.json
+EDA.ipynb
+Loan_default.csv
