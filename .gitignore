@@ -1,6 +1,6 @@
 .ipynb_checkpoints/
 .__pycache__/
-.website/styles.css
+website/
 train_model.py
 model_*.pkl
 evaluation_matrics.json
